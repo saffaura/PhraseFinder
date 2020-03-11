@@ -5,7 +5,7 @@ import java.util.List;
 import main.java.phraseFinder.PhraseFinder;
 
 /**
- * Implementatin of Amazon on-site bar-raiser question from 
+ * Implementation of Amazon on-site bar-raiser question from 
  * https://leetcode.com/discuss/interview-question/533828/Amazon-or-Onsite-or-Print-phrases-in-stream-of-words
  * 
  * @author saffaura
