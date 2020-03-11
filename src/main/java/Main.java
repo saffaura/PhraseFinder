@@ -21,8 +21,8 @@ public class Main {
                        + "many pokemon can i catch with how many pokeballs i have"};
 		
 		String[][] phrases = {{"a cat", "through the grass", "i saw a cat running"}, 
-							  {"i like", "ice cream", "ice cubes"},
-							  {"many pokemon", "how many", "many pokeballs", "i catch"}};
+                              {"i like", "ice cream", "ice cubes"},
+                              {"many pokemon", "how many", "many pokeballs", "i catch"}};
 		
 		for (int i = 0; i < text.length; i++) {
 			
