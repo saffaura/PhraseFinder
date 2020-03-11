@@ -13,13 +13,12 @@ import main.java.phraseFinder.PhraseFinder;
 public class Main {
 
 	public static void main(String[] args) {
-		// test driver
 		
 		String[] text = {"i was walking through the park and saw a cat running through"
-				  	   + " the grass then i saw a cat running from the bushes",
-				  		 "i like ice cream a lot but not ice cubes but i like slushies",
-				  		 "how many pokeballs can i buy how many pokemon can i buy how "
-				  		 + "many pokemon can i catch with how many pokeballs i have"};
+                       + " the grass then i saw a cat running from the bushes",
+                         "i like ice cream a lot but not ice cubes but i like slushies",
+                         "how many pokeballs can i buy how many pokemon can i buy how "
+                       + "many pokemon can i catch with how many pokeballs i have"};
 		
 		String[][] phrases = {{"a cat", "through the grass", "i saw a cat running"}, 
 							  {"i like", "ice cream", "ice cubes"},
